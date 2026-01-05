@@ -1,0 +1,12 @@
+{
+    "is_a": 0,
+    "ends_during": 1,
+    "happens_during": 2,
+    "has_part": 3,
+    "negatively_regulates": 4,
+    "occurs_in": 5,
+    "part_of": 6,
+    "positively_regulates": 7,
+    "regulates": 8,
+
+}
